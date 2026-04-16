@@ -16,7 +16,7 @@ body {
     text-align: center;
 }
 img {
-    width: 25rem
+    width: 25rem;
     transition: transform 0.7s ease;
 }
 img:hover {
@@ -63,6 +63,7 @@ nav {
     padding: 1rem;
     background: blue;
 }
+
 #mercurio {
     display: flex;
     flex-direction: column;
