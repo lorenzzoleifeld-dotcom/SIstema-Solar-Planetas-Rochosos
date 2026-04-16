@@ -1,5 +1,5 @@
 body {
-
+    font-size: 18px;
     background-image: url(https://img.freepik.com/vetores-gratis/traz-papel-de-parede-do-espaco-noturno-com-um-campo-estelar-brilhante_1017-53512.jpg?semt=ais_hybrid&w=740&q=80);
 }
 .começo {
@@ -97,7 +97,7 @@ nav {
 }
 @media (max-width: 762px) {
     body {
-        font-size: 23px;
+        font-size: 16px;
     }
 }
 @media (max-width: 314px) {
@@ -142,7 +142,7 @@ input {
 }
 @media (max-width: 768px) {
     #input, #btn {
-        font-size: 22px;
+        font-size: 16px;
     }
 }
 @media (max-width: 280px) {
