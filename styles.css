@@ -18,6 +18,12 @@ body {
 img {
     width: 25rem
 }
+img:hover {
+    transform: skew(5deg) scale(0.93);
+}
+img:active {
+    transform: skew(-5deg) scale(0.93);
+}
 p {
     color: white;
 }
